@@ -1,110 +1,137 @@
 [
     {
         "authors": ["Maxim Babenko", "Ignat Kolesnichenko", "Ilya Razenshteyn"],
-        "title": "A Linear Time Algorithm for Finding Three Edge-Disjoint Paths in Eulerian Networks"
+        "title": "A Linear Time Algorithm for Finding Three Edge-Disjoint Paths in Eulerian Networks",
+        "year": 2010
     },
     {
         "authors": ["Maxim Babenko", "Alexey Gusakov", "Ilya Razenshteyn"],
-        "title": "Triangle-Free 2-Matchings Revisited"
+        "title": "Triangle-Free 2-Matchings Revisited",
+        "year": 2010
     },
     {
         "authors": ["Mikhail Andreev", "Ilya Razenshteyn", "Alexander Shen"],
-        "title": "Not Every Domain of a Plain Decompressor Contains the Domain of a Prefix-Free One"
+        "title": "Not Every Domain of a Plain Decompressor Contains the Domain of a Prefix-Free One",
+        "year": 2011
     },
     {
         "authors": ["Daniel Delling", "Andrew Goldberg", "Ilya Razenshteyn", "Renato Werneck"],
-        "title": "Graph Partitioning with Natural Cuts"
+        "title": "Graph Partitioning with Natural Cuts",
+        "year": 2011
     },
     {
         "authors": ["Andrew Goldberg", "Ilya Razenshteyn", "Ruslan Savchenko"],
-        "title": "Separating Hierarchical and General Hub Labelings"
+        "title": "Separating Hierarchical and General Hub Labelings",
+        "year": 2013
     },
     {
         "authors": ["Piotr Indyk", "Ilya Razenshteyn"],
-        "title": "On Model-Based RIP-1 Matrices"
+        "title": "On Model-Based RIP-1 Matrices",
+        "year": 2013
     },
     {
         "authors": ["Alexandr Andoni", "Piotr Indyk", "Huy Nguyen", "Ilya Razenshteyn"],
-        "title": "Beyond Locality-Sensitive Hashing"
+        "title": "Beyond Locality-Sensitive Hashing",
+        "year": 2014
     },
     {
         "authors": ["Daniel Delling", "Daniel Fleischman", "Andrew Goldberg", "Ilya Razenshteyn", "Renato Werneck"],
-        "title": "An Exact Combinatorial Algorithm for Minimum Graph Bisection"
+        "title": "An Exact Combinatorial Algorithm for Minimum Graph Bisection",
+        "year": 2015
     },
     {
         "authors": ["Silvio Lattanzi", "Stefano Leonardi", "Vahab Mirrokni", "Ilya Razenshteyn"],
-        "title": "Robust Hierarchical $k$-Center Clustering"
+        "title": "Robust Hierarchical $k$-Center Clustering",
+        "year": 2015
     },
     {
         "authors": ["Alexandr Andoni", "Ilya Razenshteyn"],
-        "title": "Optimal Data-Dependent Hashing for Approximate Near Neighbors"
+        "title": "Optimal Data-Dependent Hashing for Approximate Near Neighbors",
+        "year": 2015
     },
     {
         "authors": ["Zeyuan Allen-Zhu", "Rati Gelashvili", "Ilya Razenshteyn"],
-        "title": "Restricted Isometry Property for General p-Norms"
+        "title": "Restricted Isometry Property for General p-Norms",
+        "year": 2015
     },
     {
         "authors": ["Alexandr Andoni", "Piotr Indyk", "Thijs Laarhoven", "Ilya Razenshteyn", "Ludwig Schmidt"],
-        "title": "Practical and Optimal LSH for Angular Distance"
+        "title": "Practical and Optimal LSH for Angular Distance",
+        "year": 2015
     },
     {
         "authors": ["Arturs Backurs", "Piotr Indyk", "Ilya Razenshteyn", "David Woodruff"],
-        "title": "Nearly-optimal bounds for sparse recovery in generic norms, with applications to $k$-median sketching"
+        "title": "Nearly-optimal bounds for sparse recovery in generic norms, with applications to $k$-median sketching",
+        "year": 2016
     },
     {
         "authors": ["Ilya Razenshteyn", "Zhao Song", "David Woodruff"],
-        "title": "Weighted Low Rank Approximations with Provable Guarantees"
+        "title": "Weighted Low Rank Approximations with Provable Guarantees",
+        "year": 2016
     },
     {
         "authors": ["Alexandr Andoni", "Ilya Razenshteyn"],
-        "title": "Tight Lower Bounds for Data-Dependent Locality-Sensitive Hashing"
+        "title": "Tight Lower Bounds for Data-Dependent Locality-Sensitive Hashing",
+        "year": 2016
     },
     {
         "authors": ["Thomas Ahle", "Rasmus Pagh", "Ilya Razenshteyn", "Francesco Silvestri"],
-        "title": "On the Complexity of Inner Product Similarity Join"
+        "title": "On the Complexity of Inner Product Similarity Join",
+        "year": 2016
     },
     {
         "authors": ["Alexandr Andoni", "Thijs Laarhoven", "Ilya Razenshteyn", "Erik Waingarten"],
-        "title": "Optimal Hashing-based Time&ndash;Space Tradeoffs for Approximate Near Neighbors"
+        "title": "Optimal Hashing-based Time&ndash;Space Tradeoffs for Approximate Near Neighbors",
+        "year": 2017
     },
     {
         "authors": ["Alexandr Andoni", "Ilya Razenshteyn", "Negev Shekel&nbsp;Nosatzki"],
-        "title": "LSH Forest: Practical Algorithms Made Theoretical"
+        "title": "LSH Forest: Practical Algorithms Made Theoretical",
+        "year": 2017
     },
     {
         "authors": ["Alexandr Andoni", "Huy Nguyen", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
-        "title": "Approximate Near Neighbors for General Symmetric Norms"
+        "title": "Approximate Near Neighbors for General Symmetric Norms",
+        "year": 2017
     },
     {
         "authors": ["Piotr Indyk", "Ilya Razenshteyn", "Tal Wagner"],
-        "title": "Practical Data-Dependent Metric Compression with Provable Guarantees"
+        "title": "Practical Data-Dependent Metric Compression with Provable Guarantees",
+        "year": 2017
     },
     {
         "authors": ["Alexandr Andoni", "Robert Krauthgamer", "Ilya Razenshteyn"],
-        "title": "Sketching and Embedding are Equivalent for Norms"
+        "title": "Sketching and Embedding are Equivalent for Norms",
+        "year": 2018
     },
     {
         "authors": ["Sepideh Mahabadi", "Konstantin Makarychev", "Yury Makarychev"],
-        "title": "Nonlinear Dimension Reduction via Outer Bi-Lipschitz Extensions"
+        "title": "Nonlinear Dimension Reduction via Outer Bi-Lipschitz Extensions",
+        "year": 2018
     },
     {
         "authors": ["Alexandr Andoni", "Assaf Naor", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
-        "title": "Data-Dependent Hashing via Nonlinear Spectral Gaps"
+        "title": "Data-Dependent Hashing via Nonlinear Spectral Gaps",
+        "year": 2018
     },
     {
         "authors": ["Alexandr Andoni", "Assaf Naor", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
-        "title": "Hölder Homeomorphisms and Approximate Nearest Neighbors"
+        "title": "Hölder Homeomorphisms and Approximate Nearest Neighbors",
+        "year": 2018
     },
     {
         "authors": ["Konstantin Makarychev", "Yury Makarychev", "Ilya Razenshteyn"],
-        "title": "Performance of Johnson&ndash;Lindenstrauss Transform for $k$-Means and $k$-Medians Clustering"
+        "title": "Performance of Johnson&ndash;Lindenstrauss Transform for $k$-Means and $k$-Medians Clustering",
+        "year": 2019
     },
     {
         "authors": ["Jerry Li", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
-        "title": "On Mean Estimation for General Norms with Statistical Queries"
+        "title": "On Mean Estimation for General Norms with Statistical Queries",
+        "year": 2019
     },
     {
         "authors": ["Sébastien Bubeck", "Yin Tat Lee", "Eric Price", "Ilya Razenshteyn"],
-        "title": "Adversarial examples from computational constraints"
+        "title": "Adversarial examples from computational constraints",
+        "year": 2019
     }
 ]
