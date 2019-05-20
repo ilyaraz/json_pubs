@@ -30,9 +30,6 @@
         "title": "Optimal Data-Dependent Hashing for Approximate Near Neighbors"
     },
     {
-        "title": "Sketching and Embedding are Equivalent for Norms"
-    },
-    {
         "title": "Restricted Isometry Property for General p-Norms"
     },
     {
@@ -61,6 +58,9 @@
     },
     {
         "title": "Practical Data-Dependent Metric Compression with Provable Guarantees"
+    },
+    {
+        "title": "Sketching and Embedding are Equivalent for Norms"
     },
     {
         "title": "Nonlinear Dimension Reduction via Outer Bi-Lipschitz Extensions"
