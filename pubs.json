@@ -28,11 +28,11 @@
         "title": "Beyond Locality-Sensitive Hashing"
     },
     {
-        "authors": [],
+        "authors": ["Daniel Delling", "Daniel Fleischman", "Andrew Goldberg", "Ilya Razenshteyn", "Renato Werneck"],
         "title": "An Exact Combinatorial Algorithm for Minimum Graph Bisection"
     },
     {
-        "authors": [],
+        "authors": ["Silvio Lattanzi", "Stefano Leonardi", "Vahab Mirrokni", "Ilya Razenshteyn"],
         "title": "Robust Hierarchical $k$-Center Clustering"
     },
     {
@@ -40,19 +40,19 @@
         "title": "Optimal Data-Dependent Hashing for Approximate Near Neighbors"
     },
     {
-        "authors": [],
+        "authors": ["Zeyuan Allen-Zhu", "Rati Gelashvili", "Ilya Razenshteyn"],
         "title": "Restricted Isometry Property for General p-Norms"
     },
     {
-        "authors": [],
+        "authors": ["Alexandr Andoni", "Piotr Indyk", "Thijs Laarhoven", "Ilya Razenshteyn", "Ludwig Schmidt"],
         "title": "Practical and Optimal LSH for Angular Distance"
     },
     {
-        "authors": [],
+        "authors": ["Arturs Backurs", "Piotr Indyk", "Ilya Razenshteyn", "David Woodruff"],
         "title": "Nearly-optimal bounds for sparse recovery in generic norms, with applications to $k$-median sketching"
     },
     {
-        "authors": [],
+        "authors": ["Ilya Razenshteyn", "Zhao Song", "David Woodruff"],
         "title": "Weighted Low Rank Approximations with Provable Guarantees"
     },
     {
@@ -60,7 +60,7 @@
         "title": "Tight Lower Bounds for Data-Dependent Locality-Sensitive Hashing"
     },
     {
-        "authors": [],
+        "authors": ["Thomas Ahle", "Rasmus Pagh", "Ilya Razenshteyn", "Francesco Silvestri"],
         "title": "On the Complexity of Inner Product Similarity Join"
     },
     {
