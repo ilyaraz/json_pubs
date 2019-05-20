@@ -1,83 +1,110 @@
 [
     {
+        "authors": ["Maxim Babenko", "Ignat Kolesnichenko", "Ilya Razenshteyn"],
         "title": "A Linear Time Algorithm for Finding Three Edge-Disjoint Paths in Eulerian Networks"
     },
     {
+        "authors": ["Maxim Babenko", "Alexey Gusakov", "Ilya Razenshteyn"],
         "title": "Triangle-Free 2-Matchings Revisited"
     },
     {
+        "authors": ["Mikhail Andreev", "Ilya Razenshteyn", "Alexander Shen"],
         "title": "Not Every Domain of a Plain Decompressor Contains the Domain of a Prefix-Free One"
     },
     {
+        "authors": ["Daniel Delling", "Andrew Goldberg", "Ilya Razenshteyn", "Renato Werneck"],
         "title": "Graph Partitioning with Natural Cuts"
     },
     {
+        "authors": ["Andrew Goldberg", "Ilya Razenshteyn", "Ruslan Savchenko"],
         "title": "Separating Hierarchical and General Hub Labelings"
     },
     {
+        "authors": ["Piotr Indyk", "Ilya Razenshteyn"],
         "title": "On Model-Based RIP-1 Matrices"
     },
     {
+        "authors": ["Alexandr Andoni", "Piotr Indyk", "Huy Nguyen", "Ilya Razenshteyn"],
         "title": "Beyond Locality-Sensitive Hashing"
     },
     {
-        "title": "Robust Hierarchical $k$-Center Clustering"
-    },
-    {
+        "authors": [],
         "title": "An Exact Combinatorial Algorithm for Minimum Graph Bisection"
     },
     {
+        "authors": [],
+        "title": "Robust Hierarchical $k$-Center Clustering"
+    },
+    {
+        "authors": ["Alexandr Andoni", "Ilya Razenshteyn"],
         "title": "Optimal Data-Dependent Hashing for Approximate Near Neighbors"
     },
     {
+        "authors": [],
         "title": "Restricted Isometry Property for General p-Norms"
     },
     {
+        "authors": [],
         "title": "Practical and Optimal LSH for Angular Distance"
     },
     {
+        "authors": [],
         "title": "Nearly-optimal bounds for sparse recovery in generic norms, with applications to $k$-median sketching"
     },
     {
+        "authors": [],
         "title": "Weighted Low Rank Approximations with Provable Guarantees"
     },
     {
+        "authors": ["Alexandr Andoni", "Ilya Razenshteyn"],
         "title": "Tight Lower Bounds for Data-Dependent Locality-Sensitive Hashing"
     },
     {
+        "authors": [],
         "title": "On the Complexity of Inner Product Similarity Join"
     },
     {
+        "authors": ["Alexandr Andoni", "Thijs Laarhoven", "Ilya Razenshteyn", "Erik Waingarten"],
         "title": "Optimal Hashing-based Time&ndash;Space Tradeoffs for Approximate Near Neighbors"
     },
     {
+        "authors": ["Alexandr Andoni", "Ilya Razenshteyn", "Negev Shekel&nbsp;Nosatzki"],
         "title": "LSH Forest: Practical Algorithms Made Theoretical"
     },
     {
+        "authors": ["Alexandr Andoni", "Huy Nguyen", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
         "title": "Approximate Near Neighbors for General Symmetric Norms"
     },
     {
+        "authors": ["Piotr Indyk", "Ilya Razenshteyn", "Tal Wagner"],
         "title": "Practical Data-Dependent Metric Compression with Provable Guarantees"
     },
     {
+        "authors": ["Alexandr Andoni", "Robert Krauthgamer", "Ilya Razenshteyn"],
         "title": "Sketching and Embedding are Equivalent for Norms"
     },
     {
+        "authors": ["Sepideh Mahabadi", "Konstantin Makarychev", "Yury Makarychev"],
         "title": "Nonlinear Dimension Reduction via Outer Bi-Lipschitz Extensions"
     },
     {
+        "authors": ["Alexandr Andoni", "Assaf Naor", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
         "title": "Data-Dependent Hashing via Nonlinear Spectral Gaps"
     },
     {
+        "authors": ["Alexandr Andoni", "Assaf Naor", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
         "title": "Hölder Homeomorphisms and Approximate Nearest Neighbors"
     },
     {
+        "authors": ["Konstantin Makarychev", "Yury Makarychev", "Ilya Razenshteyn"],
         "title": "Performance of Johnson&ndash;Lindenstrauss Transform for $k$-Means and $k$-Medians Clustering"
     },
     {
+        "authors": ["Jerry Li", "Aleksandar Nikolov", "Ilya Razenshteyn", "Erik Waingarten"],
         "title": "On Mean Estimation for General Norms with Statistical Queries"
     },
     {
+        "authors": ["Sébastien Bubeck", "Yin Tat Lee", "Eric Price", "Ilya Razenshteyn"],
         "title": "Adversarial examples from computational constraints"
     }
 ]
