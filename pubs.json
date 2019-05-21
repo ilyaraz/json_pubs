@@ -163,7 +163,7 @@
         "selected": true,
         "key": "ALRW17",
         "authors": ["Alexandr Andoni", "Thijs Laarhoven", "Ilya Razenshteyn", "Erik Waingarten"],
-        "title": "Optimal Hashing-based Time&ndash;Space Tradeoffs for Approximate Near Neighbors",
+        "title": "Optimal Hashing-based Time–Space Tradeoffs for Approximate Near Neighbors",
         "venue": "SODA",
         "links": [{"text": "arXiv", "url": "https://arxiv.org/abs/1608.03580", "main": true}],
         "lines": [{"text": "Invited to the special issue of ACM Transactions in Algorithms", "emph": true}],
@@ -172,7 +172,7 @@
     {
         "selected": false,
         "key": "ARS17",
-        "authors": ["Alexandr Andoni", "Ilya Razenshteyn", "Negev Shekel&nbsp;Nosatzki"],
+        "authors": ["Alexandr Andoni", "Ilya Razenshteyn", "Negev Shekel Nosatzki"],
         "title": "LSH Forest: Practical Algorithms Made Theoretical",
         "venue": "SODA",
         "links": [{"text": "local copy", "url": "https://ilyaraz.org/static/papers/lshforest.pdf", "main": true}],
@@ -211,6 +211,16 @@
     },
     {
         "selected": false,
+        "key": "AIR18",
+        "authors": ["Alexandr Andoni", "Piotr Indyk", "Ilya Razenshteyn"],
+        "title": "Approximate Nearest Neighbor Search in High Dimensions",
+        "venue": "Proceedings of ICM",
+        "links": [{"text": "arXiv", "url": "https://arxiv.org/abs/1806.09823", "main": true}],
+        "lines": [{"text": "This survey paper accompanied the ICM 2018 talk of P. Indyk.", "emph": false}],
+        "year": 2018
+    },
+    {
+        "selected": false,
         "key": "MMMR18",
         "authors": ["Sepideh Mahabadi", "Konstantin Makarychev", "Yury Makarychev", "Ilya Razenshteyn"],
         "title": "Nonlinear Dimension Reduction via Outer Bi-Lipschitz Extensions",
@@ -243,7 +253,7 @@
         "selected": true,
         "key": "MMR19",
         "authors": ["Konstantin Makarychev", "Yury Makarychev", "Ilya Razenshteyn"],
-        "title": "Performance of Johnson&ndash;Lindenstrauss Transform for $k$-Means and $k$-Medians Clustering",
+        "title": "Performance of Johnson–Lindenstrauss Transform for $k$-Means and $k$-Medians Clustering",
         "venue": "STOC",
         "links": [{"text": "arXiv", "url": "https://arxiv.org/abs/1811.03195", "main": true}],
         "lines": [{"text": "Invited to the special issue of Theory of Computing", "emph": true}],
