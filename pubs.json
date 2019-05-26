@@ -276,7 +276,7 @@
         "title": "Adversarial examples from computational constraints",
         "venue": "ICML",
         "links": [{"text": "arXiv part 1", "url": "https://arxiv.org/abs/1805.10204", "main": true}, {"text": "arXiv part 2", "url": "https://arxiv.org/abs/1811.06418", "main": true}],
-        "lines": [{"text": "Accepted as a long talk", "emph": true}],
+        "lines": [{"text": "Accepted as a long talk", "emph": true}, {"text": "Preliminary version appeared in NeurIPS 2018 Workshop on Security in Machine Learning.", "emph": false}],
         "year": 2019
     }
 ]
