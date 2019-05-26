@@ -190,6 +190,16 @@
         "year": 2017
     },
     {
+        "selected": true,
+        "key": "R17",
+        "authors": ["Ilya Razenshteyn"],
+        "title": "High-Dimensional Similarity Search and Sketching: Algorithms and Hardness",
+        "venue": "Ph.D. Thesis",
+        "links": [{"text": "local copy", "url": "https://ilyaraz.org/static/papers/phd_thesis.pdf", "main": true}],
+        "lines": [{"text": "George W. Sprowls Award for the outstanding Ph.D. theses in Computer Science", "emph": true}, {"text": "EATCS Distinguished Dissertation Award", "emph": true}],
+        "year": 2017
+    },
+    {
         "selected": false,
         "key": "IRW17",
         "authors": ["Piotr Indyk", "Ilya Razenshteyn", "Tal Wagner"],
